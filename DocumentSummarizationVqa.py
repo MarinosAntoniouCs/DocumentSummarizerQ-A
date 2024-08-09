@@ -43,7 +43,7 @@ DATA_DIR = "data"
 os.makedirs(DATA_DIR, exist_ok=True)
 os.makedirs(PERSIST_DIR, exist_ok=True)
 
-HUGGINGFACE_TOKEN = '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'
+HUGGINGFACE_TOKEN=your_huggingface_api_token
 login(HUGGINGFACE_TOKEN)
 
 # Styles
