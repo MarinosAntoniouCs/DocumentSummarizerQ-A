@@ -27,7 +27,7 @@ Settings.llm = HuggingFaceInferenceAPI(
     model_name="google/gemma-1.1-7b-it",
     tokenizer_name="google/gemma-1.1-7b-it",
     context_window=3000,
-    token="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",
+    token=your_huggingface_api_token,
     max_new_tokens=512,
     generate_kwargs={"temperature": 0.1},
 )
