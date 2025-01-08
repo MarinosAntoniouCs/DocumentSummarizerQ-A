@@ -54,6 +54,8 @@ This project is a desktop application built with PySide6. It allows users to upl
 - Default styles for text areas and scrollable containers.
 
 ---
+
+##Aplication Interface
 ![Application Interface](https://github.com/MarinosAntoniouCs/DocumentSummarizerQ-A/blob/main/DocumentSummarizerInterface.png)
 
 ## How to Run the Application
